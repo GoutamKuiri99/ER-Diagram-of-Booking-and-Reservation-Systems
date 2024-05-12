@@ -21,7 +21,8 @@ This ER diagram serves as a visual representation of the system's structure, aid
 
 Designing an effective ER diagram is a crucial step in developing a robust booking and reservation system. By carefully defining the entities, attributes, and relationships, you can create a flexible and scalable platform that caters to the needs of both users and service providers. The ER diagram outlined in this article provides a solid foundation for building a comprehensive booking and reservation system, with features that enhance the user experience, empower managers, and streamline the overall booking and reservation process.
 
-
+**You're welcome! If you have any other questions or need further assistance, feel free to ask. I'm here to help and connect with me**
+https://www.linkedin.com/in/goutam-kuiri-949b632a6
 
 
 
