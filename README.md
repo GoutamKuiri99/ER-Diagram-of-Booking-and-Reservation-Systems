@@ -1,5 +1,5 @@
-## ER-Diagram-of-Booking-and-Reservation-Systems   ![image](https://github.com/GoutamKuiri99/ER-Diagram-of-Booking-and-Reservation-Systems/assets/154737280/288473d9-84ce-4a0b-afdc-499a25d7a46c)
-
+## ER-Diagram-of-Booking-and-Reservation-Systems   
+![image](https://github.com/GoutamKuiri99/ER-Diagram-of-Booking-and-Reservation-Systems/assets/154737280/288473d9-84ce-4a0b-afdc-499a25d7a46c)
 
 ### Overview 
 
